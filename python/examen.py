@@ -1,0 +1,11 @@
+a= input("donde estas ? ")
+o= input("como tre llamas ? ")
+p= input("dibujito favoruito ? ")
+l= input("que ases ? ")
+ñ= input("cual es tu apellido ? ")
+print("estoy en ",a,"ta bien")
+print("me llamo ",o,"bonito nombre" )
+print("tambien me gusta",p,"que bueno")
+print("estoy asiendo",l,"aya")
+print("mi apellido es",ñ,"va")
+
