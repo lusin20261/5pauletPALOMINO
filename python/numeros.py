@@ -1,0 +1,12 @@
+print("=========Bienvenidos no se por que si no los invite XD=========")
+a = input("ingresa el primer número:")
+b = input("ingresa es segundo número:")
+a = int(a)
+b = int(b)
+print("la multiplicacion es:", a*b)
+print("la división es:", a/b)
+print("la suma es:" , a+b)
+print("la resta es:" , a-b)
+print("la potencia es:" , a ** b)
+print("===gracias bro===")
+
